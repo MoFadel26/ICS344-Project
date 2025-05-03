@@ -66,14 +66,21 @@ This project explores SSH security through three sequential phases:
 3. Simple hardening measures dramatically improve SSH security posture
 4. Automated tools like Fail2Ban provide effective dynamic protection
 
-## 🙌 Acknowledgments
+## 🛠️ Work Distribution
 
-This project was developed collaboratively with the help of my teammates:
+- **[AzizHamad03](https://github.com/AzizHamad03)**: Responsible for Phase 1
+- **[Basaif-A](https://github.com/Basaif-A)**: Responsible for Phase 2
+- **[MoFadel26](https://github.com/MoFadel26)**: Responsible for Phase 3
 
-- [AzizHamad03](https://github.com/AzizHamad03)
-- [Basaif-A](https://github.com/Basaif-A)
+## 👥 Group Information
+- **Section**: ICS344 – Section 3  
+- **Group**: #7  
+- **Members**:
+  - Mohammed Semlali – 202183090  
+  - Abedalaziz Hamad – 202183050  
+  - Abdulrahman Basaif – 202027940  
 
-Their contributions were essential in completing this project, and I appreciate their efforts in all phases of the development process.
+---
 
 ## 🧠 Ethical Note
 
@@ -92,13 +99,5 @@ Their contributions were essential in completing this project, and I appreciate 
 - **Monitoring**: Splunk Enterprise
 - **Defensive**: SSH configuration, Fail2Ban, system hardening
 
----
-## 👥 Group Information
-- **Section**: ICS344 – Section 3  
-- **Group**: #7  
-- **Members**:
-  - Mohammed Semlali – 202183090  
-  - Abedalaziz Hamad – 202183050  
-  - Abdulrahman Basaif – 202027940  
 
 ---

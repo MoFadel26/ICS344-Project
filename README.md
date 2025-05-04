@@ -1,5 +1,5 @@
 
-# ICS344 Project
+# ICS344 Project-03-G07-Final-Project 
 
 This project demonstrates a complete cybersecurity lifecycle from attack to defense, focusing on SSH security vulnerabilities in a controlled environment.
 
